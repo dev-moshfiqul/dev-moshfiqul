@@ -8,8 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [freelancer](https://www.freelancer.com.bd/u/devmoshfiqul)
-  
+ 
 - 🌱 I’m currently learning JavaScript | PHP | MySQL | WordPress
 
 - 🌱 I’m currently learning **https://github.com/dev-moshfiqul**
